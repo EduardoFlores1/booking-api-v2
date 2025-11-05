@@ -1,0 +1,17 @@
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Release\net8.0\Tarker.Booking.Persistence.deps.json
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Release\net8.0\Tarker.Booking.Persistence.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Release\net8.0\Tarker.Booking.Persistence.pdb
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Release\net8.0\Tarker.Booking.Application.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Release\net8.0\Tarker.Booking.Domain.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Release\net8.0\Tarker.Booking.Application.pdb
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Release\net8.0\Tarker.Booking.Domain.pdb
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Release\net8.0\Tarker.Booking.Persistence.csproj.AssemblyReference.cache
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Release\net8.0\Tarker.Booking.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Release\net8.0\Tarker.Booking.Persistence.AssemblyInfoInputs.cache
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Release\net8.0\Tarker.Booking.Persistence.AssemblyInfo.cs
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Release\net8.0\Tarker.Booking.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Release\net8.0\Tarker.B.A9D12A1F.Up2Date
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Release\net8.0\Tarker.Booking.Persistence.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Release\net8.0\refint\Tarker.Booking.Persistence.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Release\net8.0\Tarker.Booking.Persistence.pdb
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Release\net8.0\ref\Tarker.Booking.Persistence.dll

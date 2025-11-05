@@ -1,0 +1,11 @@
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Domain\bin\Debug\net8.0\Tarker.Booking.Domain.deps.json
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Domain\bin\Debug\net8.0\Tarker.Booking.Domain.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Domain\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.AssemblyInfoInputs.cache
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.AssemblyInfo.cs
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\refint\Tarker.Booking.Domain.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.pdb
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Domain\obj\Debug\net8.0\ref\Tarker.Booking.Domain.dll
