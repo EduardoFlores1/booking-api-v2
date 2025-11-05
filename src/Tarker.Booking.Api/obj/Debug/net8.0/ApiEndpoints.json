@@ -1,0 +1,277 @@
+[
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.BookingController",
+    "Method": "CreateBooking",
+    "RelativePath": "api/v1/bookings/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Tarker.Booking.Application.DataBase.Booking.Commands.CreateBooking.CreateBookingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.BookingController",
+    "Method": "GetAllBookings",
+    "RelativePath": "api/v1/bookings/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.BookingController",
+    "Method": "GetAllBookings",
+    "RelativePath": "api/v1/bookings/get-by-documentNumber",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "documentNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.BookingController",
+    "Method": "GetByType",
+    "RelativePath": "api/v1/bookings/get-by-type",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.CustomerController",
+    "Method": "CreateCustomer",
+    "RelativePath": "api/v1/customers/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Tarker.Booking.Application.DataBase.Customer.Commands.CreateCustomer.CreateCustomerModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.CustomerController",
+    "Method": "DeleteCustomer",
+    "RelativePath": "api/v1/customers/delete/{customerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.CustomerController",
+    "Method": "GetAllCustomers",
+    "RelativePath": "api/v1/customers/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.CustomerController",
+    "Method": "GetByDocumentNumber",
+    "RelativePath": "api/v1/customers/get-by-documentNumber/{documentNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "documentNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.CustomerController",
+    "Method": "GetByIdCustomer",
+    "RelativePath": "api/v1/customers/get-by-id/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.CustomerController",
+    "Method": "UpdateCustomer",
+    "RelativePath": "api/v1/customers/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Tarker.Booking.Application.DataBase.Customer.Commands.UpdateCustomer.UpdateCustomerModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.NotificationController",
+    "Method": "Create",
+    "RelativePath": "api/v1/notifications/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Tarker.Booking.Domain.Models.SendGridEmail.SendGridEmailRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "api/v1/users/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Tarker.Booking.Application.DataBase.User.Commands.CreateUser.CreateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/v1/users/delete/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/v1/users/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.UserController",
+    "Method": "GetByIdUser",
+    "RelativePath": "api/v1/users/get-by-id/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.UserController",
+    "Method": "GetByUserNameAndPassword",
+    "RelativePath": "api/v1/users/get-by-username-password/{username}/{password}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/v1/users/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Tarker.Booking.Application.DataBase.User.Commands.UpdateUser.UpdateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tarker.Booking.Api.Controllers.UserController",
+    "Method": "UpdateUserPassword",
+    "RelativePath": "api/v1/users/update-password",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Tarker.Booking.Application.DataBase.User.Commands.UpdateUserPassword.UpdateUserPasswordModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

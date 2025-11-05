@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kpU1wE6CTwM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eduardo Flores\\Documents\\Proyectos backend\\visual_studio\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eduardo Flores\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

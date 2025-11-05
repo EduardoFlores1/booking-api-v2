@@ -1,0 +1,15 @@
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Application.deps.json
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Application.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Application.pdb
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.AssemblyInfoInputs.cache
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.AssemblyInfo.cs
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\refint\Tarker.Booking.Application.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.pdb
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\ref\Tarker.Booking.Application.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Domain.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.AssemblyReference.cache
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.B.B4BD57CB.Up2Date
