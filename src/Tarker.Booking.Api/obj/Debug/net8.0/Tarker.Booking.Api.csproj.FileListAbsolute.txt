@@ -181,3 +181,6 @@ C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking
 C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.sourcelink.json
