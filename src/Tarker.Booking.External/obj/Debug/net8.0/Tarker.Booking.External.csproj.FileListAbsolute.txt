@@ -15,3 +15,4 @@ C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking
 C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.External\bin\Debug\net8.0\Tarker.Booking.Application.pdb
 C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.External\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
 C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.B.1B1851F4.Up2Date
+C:\Users\Eduardo Flores\Documents\Proyectos backend\visual_studio\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.sourcelink.json
