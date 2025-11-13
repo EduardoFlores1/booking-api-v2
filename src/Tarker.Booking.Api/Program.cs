@@ -21,8 +21,10 @@ builder.Services.AddControllers();
 // KeyVoult
 var KeyVoultUrl = builder.Configuration["KeyVoultUrl"] ?? string.Empty;
 
+
 if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "local")
 {
+    // - ambiente local, se autentica con ClientSecretCredential
     string tenantId = Environment.GetEnvironmentVariable("tenantId") ?? string.Empty;
     string clientId = Environment.GetEnvironmentVariable("clientId") ?? string.Empty;
     string clientSecret = Environment.GetEnvironmentVariable("clientSecret") ?? string.Empty;
@@ -33,7 +35,7 @@ if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "local")
 }
 else
 {
-
+    // - ambiente no local, se autentica con DefaultAzureCredential
     builder.Configuration.AddAzureKeyVault(new Uri(KeyVoultUrl), new DefaultAzureCredential());
 }
 
