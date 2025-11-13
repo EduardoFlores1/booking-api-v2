@@ -1,3 +1,2 @@
 .vs/
-src/Tarker.Booking.Api/Properties/launchSettings.json
-.src/Tarker.Booking.Api/Properties/*
+src/Tarker.Booking.Api/Properties/
