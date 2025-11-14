@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarker.Booking.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f735770eefa5e786728c7caa5bc52b8a651b072")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94a3f7debe4cfd874ac615da0f1a86f0447f17e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarker.Booking.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarker.Booking.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
