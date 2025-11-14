@@ -7,15 +7,6 @@ using Tarker.Booking.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
-builder.Services
-    .AddWebApi()
-    .AddCommon()
-    .AddApplication()
-    .AddExternal(builder.Configuration)
-    .AddPersistence(builder.Configuration);
-
 builder.Services.AddControllers();
 
 // KeyVoult
@@ -39,11 +30,23 @@ else
     builder.Configuration.AddAzureKeyVault(new Uri(KeyVoultUrl), new DefaultAzureCredential());
 }
 
+// Add services to the container.
+
+builder.Services
+    .AddWebApi()
+    .AddCommon()
+    .AddApplication()
+    .AddExternal(builder.Configuration)
+    .AddPersistence(builder.Configuration);
+
 // Prueba de obtención de un secreto
 var sql = builder.Configuration["SQLConnectionString"];
 
 
 var app = builder.Build();
+
+app.UseAuthentication();
+app.UseAuthorization();
 
 // Configure the HTTP request pipeline.
 

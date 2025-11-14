@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KZ3+MUwH9Bo=",
+  "dgSpecHash": "lwNG2dbdyHg=",
   "success": true,
   "projectFilePath": "C:\\Users\\Eduardo Flores\\Documents\\Proyectos backend\\visual_studio\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\Eduardo Flores\\.nuget\\packages\\azure.security.keyvault.keys\\4.5.0\\azure.security.keyvault.keys.4.5.0.nupkg.sha512",
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.3.0\\microsoft.aspnetcore.authentication.core.2.3.0.nupkg.sha512",
@@ -27,6 +28,7 @@
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.6\\microsoft.data.sqlclient.5.1.6.nupkg.sha512",
+    "C:\\Users\\Eduardo Flores\\.nuget\\packages\\microsoft.data.sqlclient.alwaysencrypted.azurekeyvaultprovider\\5.1.0\\microsoft.data.sqlclient.alwaysencrypted.azurekeyvaultprovider.5.1.0.nupkg.sha512",
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.1.0\\microsoft.dotnet.platformabstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\Eduardo Flores\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.10\\microsoft.entityframeworkcore.9.0.10.nupkg.sha512",
