@@ -28,7 +28,7 @@ namespace Tarker.Booking.External.GetTokenJwt
                 {
                     new Claim(ClaimTypes.NameIdentifier, id)
                 }),
-                Expires = DateTime.UtcNow.AddMinutes(1),
+                Expires = DateTime.UtcNow.AddMinutes(60),
                 SigningCredentials = new SigningCredentials(signinKey, SecurityAlgorithms.HmacSha256Signature),
                 Issuer = _configuration["IssuerJwt"],
                 Audience = _configuration["AudienceJwt"]
